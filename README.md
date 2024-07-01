@@ -1,3 +1,12 @@
+
+<style>
+  h2 {
+    border-bottom: 'none';
+  }
+</style>
+
+
+
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Shivam Bansal</h1>
 <h3 align="center">The Creative Catalyst behind tomorrow's innovations ✨</h3>
@@ -13,7 +22,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<br />
 
 <h2 align="left">🌐 Socials:</h2>
 <div align='center'>
@@ -26,7 +34,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<br />
 
 <h2 align="left">Connect with me:</h2>
 <div display='flex' align='center' gap='15px'>
