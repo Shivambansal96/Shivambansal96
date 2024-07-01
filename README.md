@@ -2,6 +2,7 @@
 <style>
   h2 {
     border-bottom: 'none';
+    color: 'red'; 
   }
 </style>
 
