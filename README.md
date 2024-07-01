@@ -7,13 +7,16 @@
 
 <br />
 
-<a href="https://twitter-clone-front-end.vercel.app/" style="text-decoration: none;">
+<p><a href="https://twitter-clone-front-end.vercel.app/" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Looking for help with-TwitterClone-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Looking for help with TwitterClone">
-</a>
+</a></p>
 <br />
+<br />
+
 <p>
 🌱 I’m currently learning <span style="color: #32CD32;">New Frameworks for animations.</span>
 </p>
+
 <p>
 💬 Ask me about <span style="color: #FF4500;">React, Sass, and HTML</span>
 </p>
