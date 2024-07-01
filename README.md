@@ -10,8 +10,6 @@
 <p><a href="https://twitter-clone-front-end.vercel.app/" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Looking for help with-TwitterClone-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Looking for help with TwitterClone">
 </a></p>
-<br />
-<br />
 
 <p>
 🌱 I’m currently learning <span style="color: #32CD32;">New Frameworks for animations.</span>
@@ -37,7 +35,8 @@
 📄 Know about my experiences <a href="https://docs.google.com/document/d/1HEB4oqURc5_rQLNJMrUwrKlEqNcul6OX/edit?usp=sharing&ouid=101090709251159153227&rtpof=true&sd=true" style="color: #FFD700;">Here</a>
 </p>
 
-
+<br />
+<br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
