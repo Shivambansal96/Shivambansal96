@@ -54,7 +54,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <div display='flex' align='center' gap='15px'>
-<a href="https://linkedin.com/in/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Shivambansal96" height="60" width="80" /></a><a href="https://www.leetcode.com/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Shivambansal96" height="60" width="80" /></a><a href="https://instagram.com/aks_4_eva" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="aks_4_eva" height="60" width="80" /></a><a href="https://medium.com/@bansal.shivam1216" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@bansal.shivam1216" height="30" width="80" /></a>
+<a href="https://linkedin.com/in/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Shivambansal96" height="60" width="80" /></a><a href="https://www.leetcode.com/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Shivambansal96" height="60" width="80" /></a><a href="https://instagram.com/aks_4_eva" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="aks_4_eva" height="60" width="80" /></a><a href="https://medium.com/@bansal.shivam1216" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@bansal.shivam1216" height="60" width="80" target="_blank" /></a>
 </div>
 
 
@@ -62,7 +62,7 @@
 <br />
 
 <h2 align="left">💻 Tech Stack:</h2>
-<div align='center'>
+<div display='flex' align='center' gap='15px'>
 <!-- <p align="left"> -->
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="80" height="80"/>
