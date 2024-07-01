@@ -67,9 +67,9 @@
 
 <h2 align="center">Stars</h2>
 <div align='center'>
-<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivambansal96&show_icons=true&locale=en&theme=dark" alt="Shivambansal96" /></p>
+<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivambansal96&show_icons=true&locale=en&theme=dark" alt="Shivambansal96" /></p>
 
-<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivambansal96&theme=" alt="Shivambansal96" /></p>
+<p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivambansal96&theme=" alt="Shivambansal96" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
