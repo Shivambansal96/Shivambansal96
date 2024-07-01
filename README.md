@@ -1,16 +1,9 @@
 
-<!-- <style>
-  h2 {
-    border-bottom: 'none';
-    color: 'red'; 
-  }
-</style> -->
-
 
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center" border-bottom='none' color='red'>Hi 👋, I'm Shivam Bansal</h1>
-<h3 align="center" fontSize='132px'>The Creative Catalyst behind tomorrow's innovations ✨</h3>
+<h3 align="center">The Creative Catalyst behind tomorrow's innovations ✨</h3>
 
 - 🤝 I’m looking for help with [TwitterClone](https://twitter-clone-front-end.vercel.app/)
 - 🌱 I’m currently learning **New Frameworks for animations.**
@@ -32,7 +25,6 @@
 <a href = "mailto:bansal.shivam1216@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -41,7 +33,6 @@
 <a href="https://linkedin.com/in/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Shivambansal96" height="60" width="80" /></a><a href="https://www.leetcode.com/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Shivambansal96" height="60" width="80" /></a><a href="https://instagram.com/aks_4_eva" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="aks_4_eva" height="60" width="80" /></a><a href="https://medium.com/@bansal.shivam1216" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@bansal.shivam1216" height="30" width="80" /></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <br />
@@ -64,7 +55,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/logo-title.svg" alt="Chart Js" width="80" height="80"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/canvasjs-charts.svg" alt="Canvasjs" width="80" height="80"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="80" height="80" padding-left="10px"/>
 <!-- </p> -->
 </div>
 
@@ -82,7 +73,6 @@
 
 <!-- Trophies -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
