@@ -9,7 +9,7 @@
 
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center" border-bottom='none'>Hi 👋, I'm Shivam Bansal</h1>
+<h1 align="center" border-bottom='none' color='red'>Hi 👋, I'm Shivam Bansal</h1>
 <h3 align="center">The Creative Catalyst behind tomorrow's innovations ✨</h3>
 
 - 🤝 I’m looking for help with [TwitterClone](https://twitter-clone-front-end.vercel.app/)
