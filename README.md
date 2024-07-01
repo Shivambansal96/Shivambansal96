@@ -10,6 +10,8 @@
 - 📝 I regularly write articles on **https://medium.com/@bansal.shivam1216**
 - 📄 Know about my experiences **https://docs.google.com/document/d/1HEB4oqURc5_rQLNJMrUwrKlEqNcul6OX/edit?usp=sharing&ouid=101090709251159153227&rtpof=true&sd=true**
 
+<br />
+
 <h2 align="left">🌐 Socials:</h2>
 <div align='center'>
 <a href="https://www.linkedin.com/in/Shivambansal96" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -18,12 +20,14 @@
 <a href = "mailto:bansal.shivam1216@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<br />
 
 <h2 align="left">Connect with me:</h2>
 <div align='center'>
-<p align="left">
-<a href="https://linkedin.com/in/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Shivambansal96" height="30" width="40" /></a><a href="https://www.leetcode.com/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Shivambansal96" height="30" width="40" /></a><a href="https://instagram.com/aks_4_eva" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="aks_4_eva" height="30" width="40" /></a><a href="https://medium.com/@bansal.shivam1216" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@bansal.shivam1216" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Shivambansal96" height="30" width="40" /></a><a href="https://www.leetcode.com/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Shivambansal96" height="30" width="40" /></a><a href="https://instagram.com/aks_4_eva" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="aks_4_eva" height="30" width="40" /></a><a href="https://medium.com/@bansal.shivam1216" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@bansal.shivam1216" height="30" width="40" /></a>
 </div>
+
+<br />
 
 <h2 align="left">💻 Tech Stack:</h2>
 <div align='center'>
@@ -47,7 +51,7 @@
 <!-- </p> -->
 </div>
 
-
+<br />
 
 <!-- Trophies -->
 
@@ -59,16 +63,18 @@
 <!-- Trophies -->
 
 
+<br />
 
 <h2 align="center">Stars</h2>
 <div align='center'>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivambansal96&show_icons=true&locale=en&theme=dark" alt="Shivambansal96" /></p>
+<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivambansal96&show_icons=true&locale=en&theme=dark" alt="Shivambansal96" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivambansal96&theme=" alt="Shivambansal96" /></p>
+<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivambansal96&theme=" alt="Shivambansal96" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<br />
 
 
 <h2 align="center">Statistics</h2>
@@ -82,9 +88,12 @@
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivambansal96&theme=2077" height="180em" /> -->
 
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivambansal96&theme=2077" height="180em" /> -->
+<br />
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivambansal96&theme=2077" height="180em" />
 </div>
+
+<br />
 
 <!-- END  -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
@@ -185,4 +194,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Snake animation](https://raw.githubusercontent.com/{Shivambansal96}/{Shivambansal96}/output/github-contribution-grid-snake-dark.svg)
---> -->
+--> 
