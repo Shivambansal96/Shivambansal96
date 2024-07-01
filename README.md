@@ -5,23 +5,21 @@
 <h1 align="center" border-bottom='none' color='red'>Hi 👋, I'm Shivam Bansal</h1>
 <h3 align="center">The Creative Catalyst behind tomorrow's innovations ✨</h3>
 
-<h4 align="center">
-    <a href="https://twitter-clone-front-end.vercel.app/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Looking for help with-TwitterClone-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Looking for help with TwitterClone">
-    </a>
-    <br />
-    🌱 I’m currently learning <span style="color: #32CD32;">New Frameworks for animations.</span>
-    <br />
-    💬 Ask me about <span style="color: #FF4500;">React, Sass, and HTML</span>
-    <br />
-    📫 How to reach me <span style="color: #D14836;">bansal.shivam1216@gmail.com</span>
-    <br />
-    👨‍💻 All of my projects are available at <a href="https://sb-personal-portfolio.vercel.app/" style="color: #00CED1;">My Portfolio</a>
-    <br />
-    📝 I regularly write articles on <a href="https://medium.com/@bansal.shivam1216" style="color: #000000;">Medium</a>
-    <br />
-    📄 Know about my experiences <a href="https://docs.google.com/document/d/1HEB4oqURc5_rQLNJMrUwrKlEqNcul6OX/edit?usp=sharing&ouid=101090709251159153227&rtpof=true&sd=true" style="color: #FFD700;">Here</a>
-</h4>
+<a href="https://twitter-clone-front-end.vercel.app/" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/Looking for help with-TwitterClone-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Looking for help with TwitterClone">
+</a>
+<br />
+🌱 I’m currently learning <span style="color: #32CD32;">New Frameworks for animations.</span>
+<br />
+💬 Ask me about <span style="color: #FF4500;">React, Sass, and HTML</span>
+<br />
+📫 How to reach me <span style="color: #D14836;">bansal.shivam1216@gmail.com</span>
+<br />
+👨‍💻 All of my projects are available at <a href="https://sb-personal-portfolio.vercel.app/" style="color: #00CED1;">My Portfolio</a>
+<br />
+📝 I regularly write articles on <a href="https://medium.com/@bansal.shivam1216" style="color: #000000;">Medium</a>
+<br />
+📄 Know about my experiences <a href="https://docs.google.com/document/d/1HEB4oqURc5_rQLNJMrUwrKlEqNcul6OX/edit?usp=sharing&ouid=101090709251159153227&rtpof=true&sd=true" style="color: #FFD700;">Here</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
