@@ -5,13 +5,10 @@
 <h1 align="center" border-bottom='none' color='red'>Hi 👋, I'm Shivam Bansal</h1>
 <h3 align="center">The Creative Catalyst behind tomorrow's innovations ✨</h3>
 
-<!-- <p align="center">
-  <a href="https://twitter-clone-front-end.vercel.app/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Looking for help with-TwitterClone-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Looking for help with TwitterClone">
-  </a>
-</p> -->
 <p align="center">
-    <a href="https://twitter-clone-front-end.vercel.app/" style="color: #1DA1F2;">🤝 I’m looking for help with TwitterClone</a>
+    <a href="https://twitter-clone-front-end.vercel.app/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Looking for help with-TwitterClone-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Looking for help with TwitterClone">
+    </a>
     <br />
     🌱 I’m currently learning <span style="color: #32CD32;">New Frameworks for animations.</span>
     <br />
