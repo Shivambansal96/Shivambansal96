@@ -5,7 +5,9 @@
 <h1 align="center" border-bottom='none' color='red'>Hi 👋, I'm Shivam Bansal</h1>
 <h3 align="center">The Creative Catalyst behind tomorrow's innovations ✨</h3>
 
-<a href="https://twitter-clone-front-end.vercel.app/" style="text-decoration: none;">
+<br />
+
+<a href="https://twitter-clone-front-end.vercel.app/" style="">
 <img src="https://img.shields.io/badge/Looking for help with-TwitterClone-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Looking for help with TwitterClone">
 </a>
 <br />
