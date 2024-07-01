@@ -14,28 +14,21 @@
 <p>
 🌱 I’m currently learning <span style="color: #32CD32;">New Frameworks for animations.</span>
 </p>
-<br />
 <p>
 💬 Ask me about <span style="color: #FF4500;">React, Sass, and HTML</span>
 </p>
 
-<br />
 <p>
 📫 How to reach me <span style="color: #D14836;">bansal.shivam1216@gmail.com</span>
 </p>
 
-<br />
 <p>
 👨‍💻 All of my projects are available at <a href="https://sb-personal-portfolio.vercel.app/" style="color: #00CED1;">My Portfolio</a>
 </p>
 
-<br />
-
 <p>
 📝 I regularly write articles on <a href="https://medium.com/@bansal.shivam1216" style="color: #000000;">Medium</a>
 </p>
-
-<br />
 
 <p>
 📄 Know about my experiences <a href="https://docs.google.com/document/d/1HEB4oqURc5_rQLNJMrUwrKlEqNcul6OX/edit?usp=sharing&ouid=101090709251159153227&rtpof=true&sd=true" style="color: #FFD700;">Here</a>
