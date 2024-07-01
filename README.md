@@ -11,20 +11,23 @@
 - 📄 Know about my experiences **https://docs.google.com/document/d/1HEB4oqURc5_rQLNJMrUwrKlEqNcul6OX/edit?usp=sharing&ouid=101090709251159153227&rtpof=true&sd=true**
 
 <h2 align="left">🌐 Socials:</h2>
-
-<div> <a href="https://www.linkedin.com/in/Shivambansal96" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align='center'>
+<a href="https://www.linkedin.com/in/Shivambansal96" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Shivambansal96" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/aks_4_eva" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:bansal.shivam1216@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
+<div align='center'>
 <p align="left">
 <a href="https://linkedin.com/in/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Shivambansal96" height="30" width="40" /></a><a href="https://www.leetcode.com/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Shivambansal96" height="30" width="40" /></a><a href="https://instagram.com/aks_4_eva" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="aks_4_eva" height="30" width="40" /></a><a href="https://medium.com/@bansal.shivam1216" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@bansal.shivam1216" height="30" width="40" /></a></p>
+</div>
 
 <h2 align="left">💻 Tech Stack:</h2>
-<p align="left">
+<div align='center'>
+<!-- <p align="left"> -->
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -41,33 +44,45 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/logo-title.svg" alt="Chart Js" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/canvasjs-charts.svg" alt="Canvasjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+<!-- </p> -->
+</div>
 
 
 
 <!-- Trophies -->
-<h3 align="left">Trophies</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivambansal96&theme=dracula" alt="Shivambansal96" /></a> </p>
+
+<h2 align="center">Trophies</h2>
+<div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivambansal96&theme=dracula" alt="Shivambansal96" /></a> </p>
+</div>
 
 <!-- Trophies -->
 
 
-<h3 align="left">Stars</h3>
+
+<h2 align="center">Stars</h2>
+<div align='center'>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivambansal96&show_icons=true&locale=en&theme=dark" alt="Shivambansal96" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivambansal96&theme=" alt="Shivambansal96" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 
 
-<h3 align="center">Statistics</h3>
+<h2 align="center">Statistics</h2>
+
 <div align="center">
 <a href="https://github.com/Shivambansal96">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivambansal96&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivambansal96&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivambansal96&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivambansal96&theme=2077" height="180em" />
+
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivambansal96&theme=2077" height="180em" /> -->
+
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivambansal96&theme=2077" height="180em" /> -->
+
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivambansal96&theme=2077" height="180em" /> -->
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivambansal96&theme=2077" height="180em" />
 </div>
 
