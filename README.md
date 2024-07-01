@@ -23,7 +23,7 @@
 <br />
 
 <h2 align="left">Connect with me:</h2>
-<div display='flex' justifyContent='center' alignItems='center' gap='15px'>
+<div display='flex' align='center' gap='15px'>
 <a href="https://linkedin.com/in/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Shivambansal96" height="60" width="80" /></a><a href="https://www.leetcode.com/Shivambansal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Shivambansal96" height="60" width="80" /></a><a href="https://instagram.com/aks_4_eva" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="aks_4_eva" height="60" width="80" /></a><a href="https://medium.com/@bansal.shivam1216" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@bansal.shivam1216" height="30" width="80" /></a>
 </div>
 
@@ -80,7 +80,7 @@
 <h2 align="center">Statistics</h2>
 
 <div align="center">
-<a href="https://github.com/Shivambansal96">
+<!-- <a href="https://github.com/Shivambansal96">  -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivambansal96&theme=2077" height="180em" />
 
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivambansal96&theme=2077" height="180em" /> -->
@@ -88,6 +88,8 @@
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivambansal96&theme=2077" height="180em" /> -->
 
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivambansal96&theme=2077" height="180em" /> -->
+<br />
+<br />
 <br />
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivambansal96&theme=2077" height="180em" />
