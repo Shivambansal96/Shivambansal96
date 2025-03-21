@@ -15,7 +15,7 @@
 
 
 <h1 align="center" border-bottom='none'>Hi 
-<img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" alt="" height="40px" width="40px">, I'm Shivam Bansal
+<img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="" height="40px" width="40px">, I'm Shivam Bansal
 </h1>
 
 
