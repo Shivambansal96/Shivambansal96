@@ -15,13 +15,8 @@
 
 
 <h1 align="center" border-bottom='none'>
-<img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="" height="60px" width="60px">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9B72FF&width=721&lines=I'm+Shivam+Bansal" alt="Typing SVG" /></a>
-</a>
-
-
+  <img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="" height="60px" width="60px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9B72FF&width=721&lines=I'm+Shivam+Bansal" alt="Typing SVG" />
 </h1>
 
 
@@ -30,7 +25,7 @@
 
 <!-- <h3 align="center">The Creative Catalyst behind tomorrow's innovations ✨</h3> -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=9B72FF&vCenter=true&multiline=true&width=720&lines=The+Creative+Catalyst+Behind+Tomorrow's+Innovations." alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=9B72FF&vCenter=true&multiline=true&width=720&lines=The+Creative+Catalyst+Behind+Tomorrow's+Innovations." alt="Typing SVG" />
 </h2>
 
 <br />
