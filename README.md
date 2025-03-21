@@ -4,14 +4,20 @@
 
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center" border-bottom='none' style="color: 9B72FF;  display: inline-block;
+<!-- <h1  style="color: 9B72FF;  display: inline-block;
     animation: shake 0.5s ease-in-out infinite; @keyframes shake {
     0% { transform: translateX(0); }
     25% { transform: translateX(-5px); }
     50% { transform: translateX(5px); }
     75% { transform: translateX(-5px); }
     100% { transform: translateX(0); }
-  }"               >Hi 👋, I'm Shivam Bansal</h1>
+  }"               >Hi 👋, I'm Shivam Bansal</h1> -->
+
+
+<h1 align="center" border-bottom='none'>Hi 
+<img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" alt="" height="40px" width="40px">, I'm Shivam Bansal
+</h1>
+
 
 
 <!-- <h3 align="center">The Creative Catalyst behind tomorrow's innovations ✨</h3> -->
@@ -78,7 +84,7 @@
 <h2 align="left">💻 Tech Stack:</h2>
 <div display='flex' align='center' gap='15px'>
 
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" width="80" height="60"/>
+  <!-- <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" width="80" height="60"/> -->
           
 
   <!-- Connection to Host  -->
@@ -87,7 +93,7 @@
 
   <!-- Tools  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"  width="80" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman"  width="80" height="60"/>
   
   <!-- Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Material UI"  width="80" height="60" />
