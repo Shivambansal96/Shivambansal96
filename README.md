@@ -4,7 +4,8 @@
 
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center" border-bottom='none' style="color: 9B72FF; @keyframes shake {
+<h1 align="center" border-bottom='none' style="color: 9B72FF;  display: inline-block;
+    animation: shake 0.5s ease-in-out infinite; @keyframes shake {
     0% { transform: translateX(0); }
     25% { transform: translateX(-5px); }
     50% { transform: translateX(5px); }
@@ -12,10 +13,7 @@
     100% { transform: translateX(0); }
   }
   
-  .shake {
-    display: inline-block;
-    animation: shake 0.5s ease-in-out infinite;
-  }
+
   ">Hi 👋, I'm Shivam Bansal</h1>
 
 
