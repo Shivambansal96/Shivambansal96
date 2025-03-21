@@ -7,7 +7,7 @@
 <h1 align="center" border-bottom='none' color='red'>Hi 👋, I'm Shivam Bansal</h1>
 <!-- <h3 align="center">The Creative Catalyst behind tomorrow's innovations ✨</h3> -->
 <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22The +Creative +Catalyst+Behind+Tomorrows+Innovations.%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22The%2C+Creative%2C+Catalyst+Behind%2C+Tomorrow's%2C+Innovations%2C.%22" alt="Typing SVG" />
 </h2>
 
 <br />
