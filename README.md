@@ -14,10 +14,10 @@
   }"               >Hi 👋, I'm Shivam Bansal</h1> -->
 
 
-<h1 align="center" border-bottom='none'>
-  <img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="" height="60px" width="60px" style="margin-bottom: 20px; display:flex; justifyContent:center;">
+<div align="center" border-bottom='none' style="display:flex; justifyContent:center; border:solid 2px red">
+  <img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="" height="60px" width="60px" style="margin-bottom: 20px; ">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9B72FF&width=721&lines=Hi%2C+I+am+Shivam+Bansal" alt="Typing SVG" />
-</h1>
+</div>
 
 
 
