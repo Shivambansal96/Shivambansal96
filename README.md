@@ -188,7 +188,7 @@
 
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivambansal96&theme=2077" height="180em" /> -->
 
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivambansal96&theme=2077" height="180em" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivambansal96&theme=2077" height="180em" />
 <br />
 <br />
 <br />
@@ -201,8 +201,14 @@
 <!-- END  -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="left">🐍 Github Contribution Snake:</h2>
 
 
+<img src="https://raw.githubusercontent.com/ShivamBansal96/ShivamBansal96/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <!-- 
@@ -248,7 +254,6 @@
 
 ###
 
-<h2 align="left">🐍 Github Contribution Snake:</h2>
 
 ###
 
