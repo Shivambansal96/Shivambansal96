@@ -245,9 +245,7 @@
   <img width="12" />
   <img width="12" />
   <img width="12" />
-</div>
 
-<!--
 ###
 
 <h2 align="left">🐍 Github Contribution Snake:</h2>
@@ -256,7 +254,9 @@
 
 <br clear="both">
 
-  <img src="https://raw.githubusercontent.com/Shivambansal96/Shivambansal96/output/snake.svg" alt="Snake animation" />  -->
+  <img src="https://raw.githubusercontent.com/ShivamBansal96/ShivamBansal96/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- ###
 
@@ -290,6 +290,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 ![Snake animation](https://raw.githubusercontent.com/{Shivambansal96}/{Shivambansal96}/output/github-contribution-grid-snake-dark.svg)
 --> 
