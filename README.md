@@ -156,7 +156,13 @@
 
 <h2 align="center">Trophies 🏆</h2>
 <div style="display: flex; justify-content: center; align-items: center;">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivambansal96&theme=dark" alt="Shivambansal96" /></a> </p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shivambansal96&theme=onedark" alt="Shivambansal96" />
+  </a> 
+</p>
+
 </div>
 
 <!-- Trophies -->
