@@ -82,15 +82,16 @@
 
 ## 🏆 Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shivambansal96&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-trophies.devomb.com/?username=Shivambansal96&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivambansal96&show_icons=true&locale=en&theme=dark)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivambansal96&show_icons=true&locale=en&theme=dark) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivambansal96&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shivambansal96&theme=onedark&border_radius=10&card_width=500&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats)
+
 
 ---
 
