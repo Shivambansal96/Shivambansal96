@@ -1,16 +1,23 @@
 ![Top Banner](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
-
+  
 <div align="center">
-  <img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="wave" height="60px" width="60px">
+
+<img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="Hi" height="60px" width="60px">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=9B72FF&background=FF0B0B00&vCenter=true&width=400&lines=Hi%2C+I'm+Shivam+Bansal" alt="Hi I am Shivam Bansal" /></a>
+
 </div>
 
-# Hi, I'm Shivam Bansal
+<br>
+
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=9B72FF&vCenter=true&multiline=true&width=720&lines=The+Creative+Catalyst+Behind+Tomorrow's+Innovations.)
 
 ---
 
 [![Twitter Clone](https://img.shields.io/badge/Looking_for_help_with-TwitterClone-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter-clone-front-end.vercel.app/)
+
+</div>
 
 ## About Me
 
@@ -30,6 +37,8 @@
 
 ## 🌐 Connect With Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Shivambansal96)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivambansal96)
 [![Instagram](https://img.shields.io/badge/Instagram-E4805F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aks_4_eva)
@@ -39,19 +48,28 @@
 
 ---
 
+</div>
+
 ## 💻 Tech Stack
 
-### Languages
+<div align="center">
+
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+
+<br>
+
 ### Frontend
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -59,7 +77,11 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
+
+<br>
+
 ### Backend & Databases
+
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -69,7 +91,11 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
+
+<br>
+
 ### Tools & Design
+
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -78,7 +104,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+</div>
+
 ---
+
+
+<div align="center">
 
 ## 🏆 Trophies
 
@@ -90,12 +121,14 @@
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivambansal96&show_icons=true&locale=en&theme=dark) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shivambansal96&theme=onedark&border_radius=10&card_width=500&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Shivambansal96&theme=dark&border_radius=10&card_width=500&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats) -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shivambansal96&theme=onedark&border_radius=10&card_width=500&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ---
 
 ## 📈 More Statistics
+
 
 ![Stats Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivambansal96&theme=2077)
 
@@ -103,7 +136,6 @@
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivambansal96&theme=2077)
 
----
 
 ## 🐍 GitHub Contribution Snake
 
@@ -112,6 +144,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
 
 ---
 
