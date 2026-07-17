@@ -1,3 +1,12 @@
+<!--
+    Hey there, I'm Shivam Bansal!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @shivambansal96 :))
+-->
+
 ![Top Banner](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
   
 <div align="center">
@@ -5,33 +14,30 @@
 <img src="https://media0.giphy.com/media/ukjroRS7Y9GLbuK1If/giphy.gif?cid=6c09b952vqronzt2u2kk92fg0fre0jwh5fbcs61fsv8mdlp7&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="Hi" height="60px" width="60px">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=9B72FF&background=FF0B0B00&vCenter=true&width=400&lines=Hi%2C+I'm+Shivam+Bansal" alt="Hi I am Shivam Bansal" /></a>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=9B72FF&vCenter=true&multiline=true&width=720&lines=The+Creative+Catalyst+Behind+Tomorrow's+Innovations.)
 </div>
 
-<br>
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=9B72FF&vCenter=true&multiline=true&width=720&lines=The+Creative+Catalyst+Behind+Tomorrow's+Innovations.)
-
----
-
-[![Twitter Clone](https://img.shields.io/badge/Looking_for_help_with-TwitterClone-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter-clone-front-end.vercel.app/)
-
+<div>
+    <img src="./assets/ShineVerse_terminal_github.gif" alt="About Me Terminal GIF"/>
 </div>
 
 ## About Me
 
 🌱 I'm currently learning **New Frameworks for animations**
 
-💬 Ask me about **React, Sass, and HTML**
+💬 Ask me about **WebDev and DSA**
 
 📫 How to reach me: **bansal.shivam1216@gmail.com**
 
 👨‍💻 Check out my projects at **[My Portfolio](https://sb-personal-portfolio.vercel.app/)**
 
-📝 I regularly write articles on **[Medium](https://medium.com/@bansal.shivam1216)**
+📝 I have written some articles on **[Medium](https://medium.com/@bansal.shivam1216)**
 
-📄 Know about my experiences **[Here](https://docs.google.com/document/d/1HEB4oqURc5_rQLNJMrUwrKlEqNcul6OX/edit?usp=sharing&ouid=101090709251159153227&rtpof=true&sd=true)**
+<!-- 📄 Know about my experiences **[Here](https://docs.google.com/document/d/1HEB4oqURc5_rQLNJMrUwrKlEqNcul6OX/edit?usp=sharing&ouid=101090709251159153227&rtpof=true&sd=true)** -->
 
 ---
 
